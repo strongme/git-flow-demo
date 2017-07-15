@@ -2,6 +2,10 @@
 
 First commit.
 
-# Feature One
+## Feature One
 
 Add one new feature.
+
+## Feature Two
+
+Add second new feature.
