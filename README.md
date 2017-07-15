@@ -6,6 +6,6 @@ First commit.
 
 Add one new feature.
 
-#Feature Two
+# Feature Two
 
 Add second new feature.
